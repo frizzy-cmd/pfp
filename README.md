@@ -1,2 +1,2 @@
 # pfp
-Source code for my umm pfp like handler thing
+This repo hosts my latest profile picture (and my other sites fetch from this repo)
